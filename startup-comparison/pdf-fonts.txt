@@ -1,0 +1,7 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+CMMI10                               Type 1            Builtin          yes no  no      14  0
+CMR10                                Type 1            Builtin          yes no  no      18  0
+CMR7                                 Type 1            Builtin          yes no  no      22  0
+CMSY10                               Type 1            Builtin          yes no  no      26  0
+CMSY7                                Type 1            Builtin          yes no  no      30  0
